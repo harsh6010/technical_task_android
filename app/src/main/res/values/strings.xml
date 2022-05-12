@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sliide Practical Task</string>
+    <string name="no_network_available">Internet connection not available!</string>
+    <string name="no_data_found">NO RECORD FOUND!</string>
+    <string name="name_validation">Please enter name</string>
+    <string name="email_validation">Please enter email address</string>
+    <string name="email_validation_invalid">Please enter valid email address</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

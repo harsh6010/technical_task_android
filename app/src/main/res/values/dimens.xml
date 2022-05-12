@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_text">43sp</dimen>
+    <dimen name="large_text">25sp</dimen>
+    <dimen name="extra_large_text">40sp</dimen>
+    <dimen name="medium_text">21sp</dimen>
+    <dimen name="medium_x_text">18sp</dimen>
+    <dimen name="small_text">15sp</dimen>
+    <dimen name="extra_small_text">13sp</dimen>
+    <dimen name="toolbar_text">21sp</dimen>
+    <dimen name="default_form_left_right_padding">35dp</dimen>
+    <dimen name="default_listing_left_right_padding">25dp</dimen>
+    <dimen name="spacing">20dp</dimen>
+</resources>
+

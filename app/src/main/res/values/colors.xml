@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue_dark">#050660</color>
+    <color name="blue_light">#5656FA</color>
+    <color name="gray_very_dark">#383838</color>
+
+
+    <color name="gray">#C4C4C4</color>
+
+    <color name="text_normal">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="error_message">#d6392e</color>
+    <color name="success_message">#468e3c</color>
+    <color name="blockingProgressBackground">#3BF5F6F6</color>
+    <color name="light_black">#404040</color>
+
+</resources>

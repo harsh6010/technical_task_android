@@ -1,0 +1,2 @@
+rootProject.name = "Sliide_PracticalTask_HarshHadvani"
+include ':app'
