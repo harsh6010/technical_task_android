@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kirtan403.k4kotlin:k4kotlin-databinding:1.0.0-beta1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4adabdd01d1778385a6d81db8e82d20c/transformed/jetified-k4kotlin-databinding-1.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4adabdd01d1778385a6d81db8e82d20c/transformed/jetified-k4kotlin-databinding-1.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4adabdd01d1778385a6d81db8e82d20c/transformed/jetified-k4kotlin-databinding-1.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kirtan403.k4kotlin/k4kotlin-databinding/1.0.0-beta1/3e10c0d2db3297b2fbb0140bb46b759c98b5326d/k4kotlin-databinding-1.0.0-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

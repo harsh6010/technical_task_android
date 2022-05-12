@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kirtan403.k4kotlin:k4kotlin-retrofit:1.0.0-beta1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4bbbf7e00bd11e875d33b151e9ef2fde/transformed/jetified-k4kotlin-retrofit-1.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4bbbf7e00bd11e875d33b151e9ef2fde/transformed/jetified-k4kotlin-retrofit-1.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4bbbf7e00bd11e875d33b151e9ef2fde/transformed/jetified-k4kotlin-retrofit-1.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kirtan403.k4kotlin/k4kotlin-retrofit/1.0.0-beta1/d466f7c8252bc1a39458616f0649e629ae3a4167/k4kotlin-retrofit-1.0.0-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kirtan403.k4kotlin/k4kotlin-retrofit/1.0.0-beta1/710fdfff2c9aa64a21fb30776ed4f92ce45689ff/k4kotlin-retrofit-1.0.0-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

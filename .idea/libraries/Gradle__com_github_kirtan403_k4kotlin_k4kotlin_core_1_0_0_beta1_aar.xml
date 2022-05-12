@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kirtan403.k4kotlin:k4kotlin-core:1.0.0-beta1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ad13b33d8caa525cd74c59b1e127cb8e/transformed/jetified-k4kotlin-core-1.0.0-beta1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad13b33d8caa525cd74c59b1e127cb8e/transformed/jetified-k4kotlin-core-1.0.0-beta1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ad13b33d8caa525cd74c59b1e127cb8e/transformed/jetified-k4kotlin-core-1.0.0-beta1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kirtan403.k4kotlin/k4kotlin-core/1.0.0-beta1/8a108d01bb62276ba9856f5107606af6d23d00c/k4kotlin-core-1.0.0-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

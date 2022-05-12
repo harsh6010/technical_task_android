@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.RaviKoradiya:LiveAdapter:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b15fb01d014b5dc76768c5362cca5dd5/transformed/jetified-LiveAdapter-1.2.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b15fb01d014b5dc76768c5362cca5dd5/transformed/jetified-LiveAdapter-1.2.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b15fb01d014b5dc76768c5362cca5dd5/transformed/jetified-LiveAdapter-1.2.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
